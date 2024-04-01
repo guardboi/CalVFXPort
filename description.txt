@@ -1,0 +1,4 @@
+Calamity VFX Addon was an addon desiring to redesign some of the more dated visuals of Calamity. I have decided to port it (with consent).
+
+The only changes are to Supreme Witch, Calamitas's Brimstone Monsters and the Tentacles of the Omega Blue Armour.
+Original by Doze_Zoze

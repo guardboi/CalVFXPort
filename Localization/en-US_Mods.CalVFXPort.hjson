@@ -1,0 +1,20 @@
+Configs: {
+	CalVFXPortConfig: {
+		DisplayName: Calamity VFX Config
+
+		DrawLimit_OBTentacle: {
+			Label: Omega Blue Tentacle Density
+			Tooltip: Changes the density of Omega Blue Tentacles, set to 0 to disable
+		}
+
+		BrimMonsterRedesign: {
+			Label: Brimstone Monster redesign
+			Tooltip: Redesigns Brimstone Monsters to look prettier
+		}
+
+		BrimMonsterSpeed: {
+			Label: Brimstone Monster Animation Speed
+			Tooltip: Adjusts the animation speed of Brimstone Monsters
+		}
+	}
+}
