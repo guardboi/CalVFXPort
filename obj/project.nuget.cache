@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ew5H+wzSmnh6grnydxC44679eKw71IQ5CQ0LmNGxvlvpV4k+RwXr52SJOVjHiwjv9SlfLJ1WXLRmQQiuUZXYpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CalVFXPort\\CalVFXPort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
